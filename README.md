@@ -50,7 +50,7 @@ You can ask questions by raising an [issue](https://github.com/rait-acm/acm-gith
 - *Add your name to the section that matches your Initial in [this list](https://github.com/rait-acm/acm-github-practice/blob/main/README.md). Then, add your name in alphabetical order. Then save your changes.*
 
 - For example
-  `- [Full Name](https://github.com/your-username)`
+  `- [sksahil0324](https://github.com/sksahil0324)`
 
 - Stage your changes.
 
@@ -142,7 +142,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
 
 - ### *A*
 - [Anirudh Eyyani](https://github.com/AnirudhEyyani)
-
+- [AbdulRahim](https://github.com/AbdulRahim)
 - ### *B*
 
 - ### *C*
@@ -178,6 +178,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
 - ### *R*
 
 - ### *S*
+`- [sksahil0324](https://github.com/sksahil0324)`
 
 - ### *T*
 
